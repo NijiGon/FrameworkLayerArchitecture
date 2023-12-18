@@ -1,4 +1,4 @@
-package Session7.model;
+package Session7Facade.model;
 
 public class User {
     private String username;

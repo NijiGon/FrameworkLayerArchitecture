@@ -1,8 +1,7 @@
-package Session7.main;
+package Session7Facade.main;
 
-import Session7.model.AuthenticationFacade;
-import Session7.model.User;
-import Session7.model.UserFileHandler;
+import Session7Facade.model.AuthenticationFacade;
+import Session7Facade.model.User;
 
 import java.util.List;
 import java.util.Scanner;

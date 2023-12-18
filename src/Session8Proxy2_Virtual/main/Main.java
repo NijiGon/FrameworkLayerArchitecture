@@ -1,8 +1,9 @@
 package Session8Proxy2_Virtual.main;
 
+import Session8Proxy2_Virtual.image.IDisplayable;
 import Session8Proxy2_Virtual.image.ImageDisplay;
 import Session8Proxy2_Virtual.image.proxy.ImageDisplayProxy;
-import image.IDisplayable;
+import Session8Proxy2_Virtual.image.IDisplayable;
 
 
 public class Main {

@@ -1,6 +1,6 @@
 package Session8Proxy2_Virtual.image;
 
-public class ImageDisplay implements image.IDisplayable {
+public class ImageDisplay implements IDisplayable {
 	
 	String filePath;
 

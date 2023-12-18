@@ -1,4 +1,4 @@
-package Session7.model;
+package Session7Facade.model;
 
 import java.io.File;
 import java.io.FileNotFoundException;

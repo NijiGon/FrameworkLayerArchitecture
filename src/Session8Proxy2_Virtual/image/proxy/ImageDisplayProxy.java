@@ -1,8 +1,9 @@
 package Session8Proxy2_Virtual.image.proxy;
 
+import Session8Proxy2_Virtual.image.IDisplayable;
 import Session8Proxy2_Virtual.image.ImageDisplay;
 
-public class ImageDisplayProxy implements image.IDisplayable {
+public class ImageDisplayProxy implements IDisplayable {
 
     private ImageDisplay imgd;
 
